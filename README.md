@@ -18,10 +18,10 @@ O SHIELD IoT-IFSP é uma placa didática criada para a plataforma NodeMCU (ESP82
 
 Neste Repositório se encontra todos os arquivos necessários para o **DESENVOLVIMENTO e DOCUMENTAÇÃO** para a **Shield IoT**, não Existe exemplos e programas testes para essa versão embora versões anteriores já tenham sido testadas (e falharam em algum ponto) no entanto esta versão está aparentemente está tudo certo, ela leva correções eletrônicas e de layout.
 
-Na pasta [PCB](PCB) estão os arquivos para fabricação da placa, tanto o [GERBER]() para fabricação manufaturada, e um [PDF]() para fabricação manual por transferência térmica. Em [Documentação](doc) temos os arquivos referente ao circuito, lá encontrado o BOM (lista de componentes, e em formato ods feito pelo libreoffice), O [esquema elétrico]() em pdf e o [arquivos do kicad].
+Na pasta [PCB](PCB/) estão os arquivos para fabricação da placa, tanto o [GERBER](PCB/GERBER/) para fabricação manufaturada, e um [PDF]() para fabricação manual por transferência térmica. Em [Documentação](ShieldIoT-IFSP/Documentação/) temos os arquivos referente ao circuito, lá encontrado o BOM (lista de componentes, e em formato ods feito pelo libreoffice), O [esquema elétrico]( ShieldIoT-IFSP/Documentação/esquematico.pdf) em pdf e o [arquivos do kicad](gerse-ifsp-campus-guarulhos/ShieldIoT-IFSP) e suas dependências.
 
 # Uso dos pinos atual:
-![](Documentação/Pinagens.png)
+![foto antiga](Documentação/Pinagens.png)
 
 # O que precisa ser feio
 * Testar placa, e todos os periféricos disponíveis para uso;
