@@ -2,6 +2,8 @@
 
 Licença: GNU GPL 2
 
+Autores: [Pedro Igor Borçatti da Silva](https://github.com/pedro-ibs)
+
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License as
 published by the Free Software Foundation; version 2 of the
@@ -31,4 +33,7 @@ Na pasta [PCB](PCB/) estão os arquivos para fabricação da placa, tanto o [GER
 
 
 # Versão antiga
+
+Está é a foto da versão antiga da placa porem existe em algum lugar no gerse a mesma versão dos arquivos desse repositório construída por transferência térmica
+
 ![versão antiga](antiga.jpg)
